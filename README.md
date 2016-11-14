@@ -120,10 +120,10 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  ![](https://github.com/HoneyApinya/LAB-09/blob/master/9.21.png?raw=true)
  
  * 
- ![]()
+ ![](https://github.com/HoneyApinya/LAB-09/blob/master/9.22.png?raw=true)
  
  * 
- ![]()
+ ![](https://github.com/HoneyApinya/LAB-09/blob/master/9.23.png?raw=true)
  
  
  
